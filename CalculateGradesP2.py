@@ -1,5 +1,7 @@
 # Code assumes that data in CSV file is validated in terms of format. Therefore 
 # the focus is on processing to produce the required output.
+#
+#The grading system will be reviewed in December 2021
 
 import csv
 
